@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KataDemoManualInpput.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileWithPricesPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TestData/TestDemoPrices.txt</Value>
+    </Setting>
+    <Setting Name="PricesSeparator" Type="System.Char" Scope="Application">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
