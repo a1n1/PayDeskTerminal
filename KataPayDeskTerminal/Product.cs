@@ -7,5 +7,6 @@ namespace KataPayDeskTerminal
         public string ProductName;
         public double PricePerUnit;
         public KeyValuePair<int, double> PackPrice;
+        public bool PackPriceAvailable = true;
     }
 }

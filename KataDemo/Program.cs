@@ -11,7 +11,7 @@ namespace KataDemo
         static void Main(string[] args)
         {
             var properties = Properties.Settings.Default;
-            var payDeskTerminal = new PayDeskTerminal(properties.FileWithPricesPath, properties.PricesSeparator);
+            var payDeskTerminal = new PayDeskTerminal(properties.FileWithPricesPath, properties.PricesSeparator, String.Empty);
             //
             foreach (var product in GetProductList())
             {

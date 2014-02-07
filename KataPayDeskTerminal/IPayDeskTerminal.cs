@@ -11,5 +11,6 @@ namespace KataPayDeskTerminal
         void SetPrices();
         void Scan(string productName);
         double Calculate();
+        void UseDiscountCard(string cardId);
     }
 }

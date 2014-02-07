@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiscountCard xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DiscountCard>
+    <CardId>d2345</CardId>
+    <DiscountPercent>3</DiscountPercent>
+    <PurchasesSum>0</PurchasesSum>
+  </DiscountCard>
+  <DiscountCard>
+    <CardId>e34758</CardId>
+    <DiscountPercent>3</DiscountPercent>
+    <PurchasesSum>235.49</PurchasesSum>
+  </DiscountCard>
+  <DiscountCard>
+    <CardId>z56rt</CardId>
+    <DiscountPercent>5</DiscountPercent>
+    <PurchasesSum>2567.95</PurchasesSum>
+  </DiscountCard>
+  <DiscountCard>
+    <CardId>eq34rt</CardId>
+    <DiscountPercent>3</DiscountPercent>
+    <PurchasesSum>0</PurchasesSum>
+  </DiscountCard>
+</ArrayOfDiscountCard>

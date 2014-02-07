@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiscountCard.cs" />
+    <Compile Include="DiscountCardRepository.cs" />
     <Compile Include="IPayDeskTerminal.cs" />
     <Compile Include="KataPayDeskTerminal.cs" />
     <Compile Include="KataPayDeskTerminalExceptions.cs" />

@@ -55,4 +55,23 @@ namespace KataPayDeskTerminal
 
         }
     }
+
+    public class DiscountCardNotFoundException : KeyNotFoundException
+    {
+        public DiscountCardNotFoundException()
+        {
+
+        }
+
+        public DiscountCardNotFoundException(string message)
+            : base(message)
+        {
+
+        }
+        public DiscountCardNotFoundException(string message, Exception innerException)
+            : base(message, innerException)
+        {
+
+        }
+    }
 }
